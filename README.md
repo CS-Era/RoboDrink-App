@@ -1,25 +1,27 @@
-# 🔖 Progetto-LSO-2023: Stati di un Robot   <img src="robot_icon.png" align="right"/> 
+# 🤖 Robot States Project LSO-2023   <img src="robot_icon.png" align="right"/> 
 
-#### ↬ Sviluppo di una applicazione Android in Java, per cellulare o tablet e di un Server in C, con la finalità di gestire gli stati di un Robot attraverso una descrizione teorica basata su macchine a stati finiti.  
+#### ↬ Development of an Android Application in Java (for mobile or tablet) and a Server in C, aimed at managing Robot States through a theoretical description based on Finite State Machines.
 
-## 📑 *Possibili stati e loro descrizione*
+## 📑 Possible Robot States and Descriptions
 
-- New: un nuovo utente è arrivo.
-- Welcoming: il robot saluta l'utente.
-- Waiting: l'utente attende il suo turno per ordinare.
-- Ordering: il robot suggerisce un drink, l'utente può confermare o richiederne un altro.
-- Serving: preparazione del drink richiesto.
-- Interacting: possibile fase di interazione con l'utente durante l'attesa per la preparazione del drink.
-- Non-Interacting: l'utente ha rifiutato la possibilità di interagire.
-- Farwelling: il drink è pronto e l'utente viene avvisato.
-- Gone: l'utente è andato via.
-- Out-of-sight: l'utente si è allontanato temporaneamente.
+- **New**: A new user has arrived.
+- **Welcoming**: The robot greets the user.
+- **Waiting**: The user waits for their turn to order.
+- **Ordering**: The robot suggests a drink, and the user can confirm or request another.
+- **Serving**: Preparation of the requested drink.
+- **Interacting**: Possible interaction phase with the user during drink preparation waiting time.
+- **Non-Interacting**: The user has declined the possibility of interaction.
+- **Farewelling**: The drink is ready, and the user is notified.
+- **Gone**: The user has left.
+- **Out-of-sight**: The user has temporarily moved away.
 
 <img src="finate-state-machine.jpg" align="center"/>
 
+## 🏬 Project Information
 
-## 🏬 *Info*
-- Università degli Studi di Napoli: "Federico II" 
-- Dipartimento di Ingegneria Elettrica e delle Tecnologie dell'Informazione
-- Corso di Laurea in Informatica
-- Esame di Laboratorio di Sistemi Operativi
+- **University**: University of Naples "Federico II"
+- **Department**: Department of Electrical Engineering and Information Technologies
+- **Degree Program**: Computer Science
+- **Course**: Operating Systems Laboratory Exam
+
+
