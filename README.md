@@ -17,33 +17,6 @@
 
 <img src="finate-state-machine.jpg" align="center"/>
 
-## 📋 Organizzazione del lavoro
-
-- Tutta la documentazione sarà prodotta in Latex.
-- La condivisione del materiale avverrà tramite GitHub.
-- L'ambiente di sviluppo per l'applicativo sarà Android Studio.
-- Per la Base di Dati utilizzeremo il DBMS PostgreSQL.
-- Il Server e il DBMS si troverà su una macchina virtuale (VPS) con S.O. Ubuntu Linux.
-
-## ©️ *Sviluppatori*
-
-🙎‍♂️  Erasmo Prosciutto
-
-🧑‍💼  Biagio Scotto di Covella
-
-👨‍💼  Antonio Lanuto
-
-
-
-### 📬 *Contatti*
-
-@ e.prosciutto@studenti.unina.it
-
-@ b.scottodicovella@studenti.unina.it
-
-@ an.lanuto@studenti.unina.it
-
-
 
 ## 🏬 *Info*
 - Università degli Studi di Napoli: "Federico II" 
