@@ -87,3 +87,20 @@ proguard/
 
 # Android Profiling
 *.hprof
+# Gradle files
+build/
+.gradle/
+*.gradle
+gradlew
+gradlew.bat
+gradle.properties
+local.properties
+# Documentation
+*.pdf
+# Android specific
+.idea/
+*.iml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx/
