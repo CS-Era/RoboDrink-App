@@ -1,4 +1,4 @@
-# 🤖 Robot States Project LSO-2023   <img src="robot_icon.png" align="right"/> 
+# 🤖 Robot States Simulation Project LSO-2023   <img src="robot_icon.png" align="right"/> 
 
 #### ↬ Development of an Android Application in Java (for mobile or tablet) and a Server in C, aimed at managing Robot States through a theoretical description based on Finite State Machines.
 
